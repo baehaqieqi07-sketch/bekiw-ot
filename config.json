@@ -1,0 +1,43 @@
+{
+  "serverName": "ORANG TULUS",
+  "ownerName": "BEKIW",
+  "prefix": "!",
+  "embedColor": "#FFFFFF",
+  "activityText": "ORANG TULUS 🤍",
+  "aiChannelId": "1506356360298893312",
+  "curhatChannelId": "1507363585779695706",
+  "anonymousCurhatChannelId": "1507430020027514922",
+  "suggestionChannelId": "1505917590323597342",
+  "ticketChannelId": "ISI_ID_CHANNEL_TICKET",
+  "chatWargaChannelId": "1504495053400441081",
+  "logChannelId": "",
+  "rulesChannelId": "",
+  "infoChannelId": "",
+  "eventChannelId": "",
+  "juragan": {
+    "enabled": true,
+    "roleId": "1508912271852572733",
+    "boostChannelId": "1508899914946707456",
+    "categoryName": "💎｜JURAGAN OT",
+    "aiChannelName": "🤖・ai-juragan"
+  },
+  "welcome": {
+    "enabled": true,
+    "sendToChatWarga": true,
+    "title": "👋 Warga Baru Datang!",
+    "message": "Halo {user}, selamat datang di **{server} 🤍**\n\nSenang banget kamu sudah bergabung di sini. Semoga kamu betah, nyaman, dan bisa ikut ngobrol bareng warga ORANG TULUS.\n\n📌 Jangan lupa baca rules dulu supaya paham aturan server.\n💬 Langsung kenalan di chat warga, jangan malu-malu ya.\n🎫 Kalau butuh bantuan, kamu bisa hubungi staff atau buka ticket.\n\nKamu adalah warga ke-**{memberCount}** di server ini. Selamat bergabung dan semoga harimu menyenangkan 🤍"
+  },
+  "ai": {
+    "cooldownMs": 4500,
+    "maxMessageLength": 1900,
+    "openRouterModel": "openai/gpt-4o-mini"
+  },
+  "panels": {
+    "sendSuggestionPanelOnReady": false
+  },
+  "suggestion": {
+    "enabled": true,
+    "title": "💡 ORANG TULUS • Kritik & Saran",
+    "description": "Punya ide, kritik, saran, atau masukan buat server? Klik tombol di bawah dan tulis dengan jelas ya 🤍"
+  }
+}
